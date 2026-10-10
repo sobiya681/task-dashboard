@@ -22,4 +22,4 @@ The things I actually use every day:
 - Backend: Node.js + Express
 - Database: MongoDB Atlas with Mongoose
 - Hosting: Vercel — frontend and backend both live there
-![Task Dashboard](./TaskManager.png)
+![Task Manager Dashboard](./Task%20Manager.png)
